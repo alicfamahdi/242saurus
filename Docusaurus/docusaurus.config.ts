@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: '242saurus',               // Or else
-  tagline: 'This is the Way!',      // Or else
+  tagline: 'well yes',      // Or else
   favicon: 'img/favicon.ico',       // Or else
   url: 'https://alicfamahdi.github.io', // Or else
   baseUrl: '/242saurus/',           // Or else
